@@ -1,21 +1,20 @@
-body{
-    background-color:rgb(42, 37, 37);
-}
 #first-line{
-    color: whitesmoke;
+    color: black;
 }
 h4{
-    color: whitesmoke;
+    color: black;
 }
 #top-area{
-    background-color:orangered;
+    background-color: brown;
 }
 p{
-    color:whitesmoke;
+    color:black;
+    font-size: large;
 }
 a{
-    color:lightblue;
+    color:blue;
+    font-size:large;
 }
 a:hover{
-    color:yellow;
+    color:black;
 }
