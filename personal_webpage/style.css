@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(42, 37, 37);
+}
+#first-line{
+    color: whitesmoke;
+}
+h4{
+    color: whitesmoke;
+}
+#top-area{
+    background-color:orangered;
+}
+p{
+    color:whitesmoke;
+}
+a{
+    color:lightblue;
+}
+a:hover{
+    color:yellow;
+}
